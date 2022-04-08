@@ -6,6 +6,6 @@
 -Change ip on config.java according to your sql host ip. <br/>
 
 ![alt text](https://github.com/rachimvdr/Eventuni-Android-App/blob/main/1.jpg?raw=true)
-![alt text](https://github.com/rachimvdr/Eventuni-Android-App/blob/main/2.jpg?raw=true)
+![alt text](https://github.com/rachimvdr/Eventuni-Android-App/blob/main/2.jpg?raw=true) <br/>
 ![alt text](https://github.com/rachimvdr/Eventuni-Android-App/blob/main/3.jpg?raw=true)
 ![alt text](https://github.com/rachimvdr/Eventuni-Android-App/blob/main/4.jpg?raw=true)
