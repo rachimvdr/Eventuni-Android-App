@@ -1,4 +1,7 @@
 *.html linguist-detectable=false
 *.js linguist-detectable=false
 *.css linguist-detectable=false
-*.php-3.1.2 linguist-detectable=text
+Common.php-3.1.2 linguist-detectable=false
+CodeIgniter.php-3.1.2 linguist-detectable=false
+Loader.php-3.1.2 linguist-detectable=false
+Input.php-3.1.2 linguist-detectable=false
