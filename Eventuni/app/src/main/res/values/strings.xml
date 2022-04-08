@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Eventuni</string>
+    <string name="id">ID</string>
+    <string name="name">Nama Event</string>
+    <string name="description">Deskripsi Singkat</string>
+    <string name="longdescription">Deskripsi</string>
+    <string-array name="kategori">
+        <item>Festival</item>
+        <item>Hiburan</item>
+        <item>Kompetisi</item>
+        <item>Pameran</item>
+        <item>Seminar</item>
+        <item>Sosial</item>
+        <item>Talkshow</item>
+        <item>Workshop</item>
+    </string-array>
+    <string name="kegiatan">Kegiatan</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="choose_image">Pilih Poster</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="tiket">Harga Tiket</string>
+    <string name="waktu">Waktu</string>
+    <string name="cp">Contact Person WhatsApp</string>
+    <string name="link">Event Link</string>
+    <string name="submit">Simpan</string>
+    <string name="delete">Hapus</string>
+</resources>
