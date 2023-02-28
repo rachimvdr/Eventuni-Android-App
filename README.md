@@ -2,6 +2,8 @@
 
 ## Written in java with rest api and php sql
 
+-Must using XAMPP v3.2.2 32 bit (even on 64 bit windows), download link:
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.14/xampp-win32-5.6.14-4-VC11-installer.exe/download
 -Create database named "unicode" (without quotation marks) on your sql, select the database, import "unicode.sql". <br/>
 -Change ip on config.java according to your sql host ip. <br/>
 
